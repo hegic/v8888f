@@ -1,0 +1,27 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.32009 6.05078L4.18103 4.5H43.819L45.6799 6.05078L47.5 7.56752V40.4325L45.6799 41.9492L43.819 43.5H4.18102L2.32009 41.9492L0.5 40.4325V7.56752L2.32009 6.05078Z" fill="url(#paint0_radial)" stroke="#57ECB1"/>
+<path d="M13 4H12L4 12V13L13 4Z" fill="#815AED"/>
+<path d="M13 44H12L4 36V35L13 44Z" fill="#815AED"/>
+<rect x="4" y="12" width="1" height="24" fill="#815AED"/>
+<rect x="13" y="12" width="23" height="3" fill="#12A56A"/>
+<rect x="13" y="18" width="27" height="2" fill="#12A56A"/>
+<rect x="13" y="22" width="27" height="2" fill="#12A56A"/>
+<rect x="13" y="26" width="27" height="2" fill="#12A56A"/>
+<rect x="13" y="30" width="27" height="2" fill="#12A56A"/>
+<rect x="13" y="34" width="27" height="2" fill="#12A56A"/>
+<path d="M4 0H20L24 4H12L4 12V36L12 44H24L20 48H4L0 44V4L4 0Z" fill="url(#paint1_linear)"/>
+<path d="M4 40V44H8L4 40Z" fill="#815AED"/>
+<path d="M4 8V4H8L4 8Z" fill="#815AED"/>
+<path d="M21 0L25 4H24L20 0H21Z" fill="#815AED"/>
+<path d="M24 44L20 48H21L25 44H24Z" fill="#815AED"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(46 5.66666) rotate(139.876) scale(57.5428 56.715)">
+<stop offset="0.359375" stop-color="#91F3CC"/>
+<stop offset="1" stop-color="#23E698"/>
+</radialGradient>
+<linearGradient id="paint1_linear" x1="12" y1="0" x2="12" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B9A3F5"/>
+<stop offset="1" stop-color="#9D7FF1"/>
+</linearGradient>
+</defs>
+</svg>
